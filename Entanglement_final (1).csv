@@ -1,0 +1,84 @@
+﻿index,common.name,Citation,occurrence,total.sample.size,ocean,years,year.start,year.end,decade min,decade max,decade medium,IUCN.red.list..search.paper.clasifying.ocean.,species,Latitude..degrees.final.,Longitud..degrees.final.
+1,Band-rumped Storm petrel,"(R. A. Costa et al., 2020)",0,2,Natl,15.00821918,Jan-75,Dec-89,70,80,80,lc,"Hydrobates castro (del Hoyo and Collar 2014)/Oceanodroma castro (Harcourt, 1851)",39.45833333,-10.19861111
+2,Bottlenose dolphin ,"(Adimey et al., 2014)",132,2413,Natl,13.00547945,Jan-97,Dec-09,90,100,100,lc,"Tursiops truncatus (Montagu, 1821)",27.46861111,-93.89916667
+3,Bottlenose dolphin ,"(Byrd et al., 2014)",2,1058,Natl,12.00547945,Jan-97,Dec-08,90,100,100,lc,"Tursiops truncatus (Montagu, 1821)",34.91583333,-75.94166667
+4,Bottlenose dolphin ,"(Lusher et al., 2018)",3,150,Natl,26.01369863,Jan-90,Dec-15,90,110,100,lc,"Tursiops truncatus (Montagu, 1821)",52.505,-10.81777778
+5,Bottlenose dolphin ,"(Mcfee & Hopkins-Murphy, 2002)",16,153,Natl,5.002739726,Jan-92,Dec-96,90,90,90,lc,"Tursiops truncatus (Montagu, 1821)",32.8875,-79.28166667
+6,Brown booby  ,"(Dobbs, 2005)",3,66,Spac,10.00273973,Jan-78,Dec-87,70,80,80,lc,"Sula leucogaster (Boddaert, 1783)",-13.59805556,146.085
+7,dusky shark ,"(Cliff et al., 2002)",27,5736,Ind,23.01369863,Jan-78,31/12/2000,70,100,80,en,"Carcharhinus obscurus (Lesueur, 1818)",-30,31
+8,dusky shark ,"(Stevens, 1984)",1,16,Spac,4,Jan-79,Dec-82,70,80,80,en,"Carcharhinus obscurus (Lesueur, 1818)",-33.72444444,151.9088889
+9,Gervais' beaked whale ,"(Byrd et al., 2014)",0,13,Natl,12.00547945,Jan-97,Dec-08,90,100,100,lc,"Mesoplodon europaeus (Gervais, 1855)",34.91583333,-75.94166667
+10,Green turtle,"(Barrios-Garrido et al., 2019)",1,55,Natl,1,Jan-11,Jan-12,110,110,110,en,"Chelonia mydas (Linnaeus, 1758)",10.9875,-71.53777778
+11,Green turtle,"(Boulon, 2000)",16,79,Natl,16.00821918,Jan-82,Dec-97,80,90,90,en,"Chelonia mydas (Linnaeus, 1758)",17.85944444,-64.71972222
+12,Green turtle,"(Chaloupka et al., 2008)",261,3732,Npac,22.0109589,Jan-82,Dec-03,80,100,90,en,"Chelonia mydas (Linnaeus, 1758)",20,-156.15
+13,Green turtle,"(Francke et al., 2014)",14,221,Npac,1,Jan-14,Jan-15,110,110,110,en,"Chelonia mydas (Linnaeus, 1758)",22.50166667,-159.1052778
+14,Green turtle,"(Godoy & Stockin, 2018)",0,35,Spac,7.002739726,Jan-07,Dec-13,100,110,110,en,"Chelonia mydas (Linnaeus, 1758)",-36,175.6025
+15,Green turtle,"(Laist, 1997)",123,1874,Natl,13.00821918,Jan-80,Dec-92,80,90,80,en,"Chelonia mydas (Linnaeus, 1758)",27.27083333,-89.41388889
+16,Green turtle,"(Ng et al., 2016)",1,8,Npac,2.515068493,20/03/2011,23/09/2013,110,110,110,en,"Chelonia mydas (Linnaeus, 1758)",22.2,114.1694444
+17,Green turtle,"(Plotkin & Amos, 1988)",3,25,Natl,1.997260274,Jan-86,31/12/1987,80,80,80,en,"Chelonia mydas (Linnaeus, 1758)",27.59305556,-97.17833333
+18,Green turtle,"(Prampramote et al., 2022)",66,108,Npac,3.580821918,01/01/2017,31/07/2020,110,120,110,en,"Chelonia mydas (Linnaeus, 1758)",10.32194444,100.8058333
+19,Green turtle,"(Reis et al., 2010)",1,103,Satl,1,Dec-08,Dec-09,100,100,100,en,"Chelonia mydas (Linnaeus, 1758)",-22.98777778,-42.4725
+20,Green turtle,"(Rodriguez et al., 2022)",3,21,Natl,19.09863014,May-01,Jun-20,100,120,110,en,"Chelonia mydas (Linnaeus, 1758)",38.30555556,-26.75944444
+21,Green turtle,"(S. S. Sadove & Morreale, 1990)",4,15,Natl,11.00547945,Jan-78,Dec-88,70,80,80,en,"Chelonia mydas (Linnaeus, 1758)",40.19805556,-73.27638889
+22,Green turtle,"(Summers et al., 2018)",1,82,Npac,11.42739726,Apr-05,Sep-16,100,110,100,en,"Chelonia mydas (Linnaeus, 1758)",14.8,145.5
+23,Green turtle,"(Witzell & Teas, 1994)",0,33,Natl,13.00821918,Jan-80,Dec-92,80,90,80,en,"Chelonia mydas (Linnaeus, 1758)",34.89055556,-74.29416667
+24,Green turtle,"(Witzell & Teas, 1994)",12,86,Natl,13.00821918,Jan-80,Dec-92,80,90,80,en,"Chelonia mydas (Linnaeus, 1758)",18.52111111,-65.20277778
+25,Green turtle,"(Witzell & Teas, 1994)",40,578,Natl,13.00821918,Jan-80,Dec-92,80,90,80,en,"Chelonia mydas (Linnaeus, 1758)",26.80111111,-91.08388889
+26,Green turtle,"(Witzell & Teas, 1994)",83,1263,Natl,13.00821918,Jan-80,Dec-92,80,90,80,en,"Chelonia mydas (Linnaeus, 1758)",28.76277778,-78.57194444
+27,Hawksbill turtle ,"(Boulon, 2000)",11,38,Natl,16.00821918,Jan-82,Dec-97,80,90,90,cr,"Eretmochelys imbricata (Linneaus, 1766)",17.85944444,-64.71972222
+28,Hawksbill turtle ,"(Francke et al., 2014)",0,8,Npac,1,Jan-14,Jan-15,110,110,110,cr,"Eretmochelys imbricata (Linneaus, 1766)",21.45111111,-156.0694444
+29,Hawksbill turtle ,"(Laist, 1997)",66,970,Natl,13.00821918,01/01/1980,31/12/1992,80,90,80,cr,"Eretmochelys imbricata (Linneaus, 1766)",27.27083333,-89.41388889
+30,Hawksbill turtle ,"(Summers et al., 2018)",1,5,Npac,11.42739726,Apr-05,Sep-16,100,110,100,cr,"Eretmochelys imbricata (Linneaus, 1766)",14.8,145.5
+31,Hawksbill turtle ,"(Teas & Witzell, 1996)",75,676,Natl,13.00821918,Jan-80,Dec-92,80,90,80,cr,"Eretmochelys imbricata (Linneaus, 1766)",27.27083333,-89.41388889
+32,Hawksbill turtle ,"(Witzell & Teas, 1994)",0,1,Natl,13.00821918,Jan-80,Dec-92,80,90,80,cr,"Eretmochelys imbricata (Linneaus, 1766)",34.89055556,-74.29416667
+33,Hawksbill turtle ,"(Witzell & Teas, 1994)",18,168,Natl,13.00821918,Jan-80,Dec-92,80,90,80,cr,"Eretmochelys imbricata (Linneaus, 1766)",27.58916667,-89.75027778
+34,Hawksbill turtle ,"(Witzell & Teas, 1994)",18,89,Natl,13.00821918,Jan-80,Dec-92,80,90,80,cr,"Eretmochelys imbricata (Linneaus, 1766)",28.76277778,-78.57194444
+35,Hawksbill turtle ,"(Witzell & Teas, 1994)",5,92,Natl,13.00821918,Jan-80,Dec-92,80,90,80,cr,"Eretmochelys imbricata (Linneaus, 1766)",18.52111111,-65.20277778
+36,Humpback whale ,"(Bogomolni et al., 2010)",2,308,Natl,7.002739726,Jan-00,Dec-06,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",41.57333333,-70.2375
+37,Humpback whale ,"(Byrd et al., 2014)",0,19,Natl,12.00547945,Jan-97,Dec-08,90,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",34.91583333,-75.94166667
+38,Humpback whale ,"(Capella et al., 2001)",10,24,Npac,15.00821918,Jan-86,Dec-00,80,100,90,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",3,-80
+39,Humpback whale ,"(Greenland et al., 2007)",3,12,Spac,1,01-Jan-06,01-Jan-07,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",-18.77805556,149.1688889
+40,Humpback whale ,"(Helker et al., 2015)",20,83,Npac,5,Jan-09,Dec-13,100,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",53.53833333,-162.9972222
+41,Humpback whale ,"(Jackson & Sternfeld, 2009)",8,36,Npac,1,Jan-08,Dec-08,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+42,Humpback whale ,"(Jackson, 2010)",7,18,Npac,1,Dec-08,Dec-09,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+43,Humpback whale ,"(Jackson, 2011)",16,35,Npac,1,Jan-10,Jan-11,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+44,Humpback whale ,"(Jackson, 2012)",15,33,Npac,1,Jan-11,Jan-12,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+45,Humpback whale ,"(Jackson, 2013)",9,29,Npac,1,Jan-12,Dec-12,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+46,Humpback whale ,"(Jackson, 2014)",7,26,Npac,1,Jan-13,Jan-14,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+47,Humpback whale ,"(Jackson, 2015)",12,27,Npac,1,Jan-14,Jan-15,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+48,Humpback whale ,"(Jackson, 2016)",22,61,Npac,1,Jan-15,Jan-16,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+49,Humpback whale ,"(Jackson, 2017)",1,29,Npac,1,Jan-16,Dec-16,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+50,Humpback whale ,"(Jackson, 2018)",5,22,Npac,1,Jan-17,Jan-18,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+51,Humpback whale ,"(Jackson, 2019)",9,19,Npac,1,Jan-18,Jan-19,110,110,110,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+52,Humpback whale ,"(Jackson, 2021)",7,16,Npac,1,Jan-20,Dec-20,120,120,120,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+53,Humpback whale ,"(Lusher et al., 2018)",0,5,Natl,26.01369863,Jan-90,Dec-15,90,110,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",52.505,-10.81777778
+54,Humpback whale ,"(Meynecke & Meager, 2016)",6,214,Spac,26.01369863,Jan-89,Dec-14,80,110,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",-18.77805556,149.1688889
+55,Humpback whale ,"(Neilson et al., 2009)",94,133,Npac,1.506849315,May-03,Nov-04,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.64833333,-165.6988889
+56,Humpback whale ,"(Robbins & Mattila, 2000)",43,356,Natl,2.997260274,Jan-97,Dec-99,90,90,90,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",-13.19805556,139.5163889
+57,Humpback whale ,"(Sternfeld, 2005)",6,13,Npac,1,Jan-04,Dec-04,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+58,Humpback whale ,"(Sternfeld, 2006)",23,41,Npac,1,Jan-05,Jan-06,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+59,Humpback whale ,"(Sternfeld, 2007)",9,19,Npac,1,Jan-07,Jan-08,100,100,100,lc,"Megaptera novaeangliae¬†(Borowski, 1781)",58.48555556,-163.6116667
+60,Leach‚Äôs strom petrel ,"(Costa et al., 2020)",0,1,Natl,11.00547945,01/01/2008,31/12/2018,100,110,110,vu,"Hydrobates leucorhoa (del Hoyo and Collar 2014)/Oceanodroma leucorhoa (Vieillot, 1818)",39.45833333,-10.19861111
+61,Leach‚Äôs strom petrel ,"(Kees, 1990)",1,11,Natl,11.00547945,01/01/1979,31/12/1989,70,80,80,vu,"Hydrobates leucorhoa (del Hoyo and Collar 2014)/Oceanodroma leucorhoa (Vieillot, 1818)",52.85111111,4.504722222
+62,Leatherback turtle ,"(Boulon, 2000)",1,5,Natl,16.00821918,Jan-82,Dec-97,80,90,90,vu,"Dermochelys coriacea (Vandelli, 1761)",17.85694444,-64.80194444
+63,Leatherback turtle ,"(Dodge et al., 2022)",5,126,Natl,15.00547945,Jan-05,Dec-19,100,110,110,vu,"Dermochelys coriacea (Vandelli, 1761)",42.14722222,-70.28361111
+64,Leatherback turtle ,"(Duguy & Duron, 1980)",7,8,Natl,1.082191781,Jan-77,Jan-78,70,70,70,vu,"Dermochelys coriacea (Vandelli, 1761)",45.83555556,-2.504166667
+65,Leatherback turtle ,"(Duguy & Duron, 1981)",4,28,Natl,1,Jan-81,Jan-82,80,80,80,vu,"Dermochelys coriacea (Vandelli, 1761)",45.83555556,-2.504166667
+66,Leatherback turtle ,"(Duguy, 1983)",1,34,Natl,1,Jan-83,Jan-84,80,80,80,vu,"Dermochelys coriacea (Vandelli, 1761)",45.83555556,-2.504166667
+67,Leatherback turtle ,"(Or√≥s et al., 2021)",6,13,Natl,20.0109589,Jan-98,Dec-17,90,110,100,vu,"Dermochelys coriacea (Vandelli, 1761)",28.68166667,-16.88305556
+68,Leatherback turtle ,"(Plotkin & Amos, 1988)",1,25,Natl,1.997260274,Jan-86,Dec-87,80,80,80,vu,"Dermochelys coriacea (Vandelli, 1761)",27.59305556,-97.17833333
+69,Leatherback turtle ,"(Russo et al., 2003)",1,7,Med,4,Jun-94,May-98,90,90,90,vu,"Dermochelys coriacea (Vandelli, 1761)",38.13111111,14.40166667
+70,Leatherback turtle ,"(S. S. Sadove & Morreale, 1990)",10,20,Natl,11.00547945,Jan-78,Dec-88,70,80,80,vu,"Dermochelys coriacea (Vandelli, 1761)",40.19805556,-73.23694444
+71,Leatherback turtle ,"(Witzell & Teas, 1994)",0,8,Natl,13.00821918,Jan-80,Dec-92,80,90,80,vu,"Dermochelys coriacea (Vandelli, 1761)",18.52111111,-65.20277778
+72,Leatherback turtle ,"(Witzell & Teas, 1994)",52,462,Natl,13.00821918,Jan-80,Dec-92,80,90,80,vu,"Dermochelys coriacea (Vandelli, 1761)",34.89055556,-74.29416667
+73,Leatherback turtle ,"(Witzell & Teas, 1994)",8,105,Natl,13.00821918,Jan-80,Dec-92,80,90,80,vu,"Dermochelys coriacea (Vandelli, 1761)",27.27083333,-89.41388889
+74,Leatherback turtle ,"(Witzell & Teas, 1994)",8,403,Natl,13.00821918,Jan-80,Dec-92,80,90,80,vu,"Dermochelys coriacea (Vandelli, 1761)",28.76277778,-78.57194444
+75,Masked booby,"(Dobbs, 2005)",1,24,Spac,10.00273973,Jan-78,Dec-87,70,80,80,lc,"Sula dactylatra (Lesson, 1831)",-13.59805556,146.085
+76,scalloped hammerhead ,"(Cliff et al., 2002)",0,3521,Ind,23.01369863,01/01/1978,31/12/2000,70,100,80,cr,"Sphyrna lewini (Griffith & Smith, 1834)",-30,31
+77,shortfin mako shark ,"(Cliff et al., 2002)",0,310,Ind,22.01369863,01/01/1978,01/01/2000,70,100,80,en,"Isurus oxyrinchus (Rafinesque, 1810)",-30,31
+78,Sperm whale ,"(Byrd et al., 2014)",0,8,Natl,12.00547945,Jan-97,Dec-08,90,100,100,vu,"Physeter macrocephalus (Linnaeus, 1758)",34.91583333,-75.94166667
+79,Sperm whale ,"(Jackson, 2013)",1,2,Npac,1,Jan-12,Dec-12,110,110,110,vu,"Physeter macrocephalus (Linnaeus, 1758)",58.48555556,-163.6116667
+80,Sperm whale ,"(S. S. Sadove & Morreale, 1990)",3,75,Natl,11.00547945,Jan-78,Dec-88,70,80,80,vu,"Physeter macrocephalus (Linnaeus, 1758)",40.19805556,-73.23694444
+81,Sperm whale ,"(Waring et al., 2004)",1,18,Natl,7.002739726,Jan-94,Dec-00,90,100,90,vu,"Physeter macrocephalus (Linnaeus, 1758)",25.74916667,-80.07166667
+82,Tiger sharks ,"(Cliff et al., 2002)",2,1078,Ind,23.01369863,Jan-78,31/12/2000,70,100,80,nt,"Galeocerdo cuvier (P√©ron & LeSueur, 1822)",-30,31
+83,Whale Sharks,"(Perry et al., 2020)",1,277,Satl,6.084931507,Apr-13,May-19,110,110,110,en, Rhincodon typus  (Smith 1828),-15.92916667,-5.751388889
